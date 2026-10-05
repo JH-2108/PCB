@@ -24,7 +24,7 @@
 | [5 mm LEDs](https://my.cytron.io/p-5mm-3mm-led-kit-box-5-colours-125pcs) | Power/Status/game-state indicators | 1 | $2.45 | $2.45 | [Cytron](https://my.cytron.io/p-5mm-3mm-led-kit-box-5-colours-125pcs) |
 | [Custom-PCB](https://jlcpcb.com/user-center/orders/) | Main routing component | 1 | $10.00 | $10.00 | [JLCPCB](https://jlcpcb.com/user-center/orders/) |
 | **Parts subtotal** | — | — | — | **$19.65** | — |
-| **Tax & shipping** | — | — | — | **$7.00** | — |
-| **Total** | — | — | — | **$26.65** | — |
+| **Tax & shipping** | — | — | — | **$9.00** | — |
+| **Total** | — | — | — | **$28.65** | — |
 
-$3.35 left of the tier's funding.
+$1.35 left of the tier's funding.
