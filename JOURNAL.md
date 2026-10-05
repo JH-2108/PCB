@@ -6,8 +6,6 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A compact electronic flight control system designed to monitor and control a small aircraft or spacecraft. it uses a microcontroller to receive inputs from controls and sensors, process the information, and provide outputs through statues LEDs, a buzzer, and connected devices. The system  is designed as a functional PCB that demonstrates the basic electronics and control logic used in flight systems. Outside of a rocket or spacecraft, it could also be adapted for use in drones, model aircraft, or other remote-controlled vehicles.
-
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
 | Week 1 | Tier 1 | 0h | 0 |
