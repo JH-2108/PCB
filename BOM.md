@@ -21,7 +21,7 @@
 | [0.1 µF (100 nF) ceramic capacitor](https://shopee.com.my/product/89127439/44805643791?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMaBRvcqdZwgRklGTWoHoxFGhRfNAexxPkhN1n8rcCO5qFEud_-aY2hsGdfUnqCpX0P0Z7lpJy6IP6_Ew8qmNpcGhlcnRleHTEcAAAAAyKizNBBFaCSeBLdiQTbhxNTWpWtkE4f8ofT9Jv-2Up7Odd_h1Dz6OWHqkfuJgTXucs6qPCRcG0KNGuVjjlQJ_KDhZyTBj6MP834YSh7UYRDzuWYscuzqj4Srw33oP8BJfT-3Y3kiB_CnDc8BM) | Filters electrical noise | 1 | $1.54 | $1.54 | [Shopee](https://shopee.com.my/product/89127439/44805643791?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMaBRvcqdZwgRklGTWoHoxFGhRfNAexxPkhN1n8rcCO5qFEud_-aY2hsGdfUnqCpX0P0Z7lpJy6IP6_Ew8qmNpcGhlcnRleHTEcAAAAAyKizNBBFaCSeBLdiQTbhxNTWpWtkE4f8ofT9Jv-2Up7Odd_h1Dz6OWHqkfuJgTXucs6qPCRcG0KNGuVjjlQJ_KDhZyTBj6MP834YSh7UYRDzuWYscuzqj4Srw33oP8BJfT-3Y3kiB_CnDc8BM) |
 | [10 µF electrolytic capacitor](https://shopee.com.my/product/6674515/6114209357?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMaBRvcqdZwgRklGTWoHoxFGhRfNAexxPkhN1n8rcCO5qFEud_-aY2hsGdfUnqCpX0P0Z7lpJy6IP6_Ew8qmNpcGhlcnRleHTEbAAAAAync9kAOU2fTnLsIU0fQLEAsC8k5eg-3vHv3RaZJoy8wVSBC_bh6tI9dl28wXo9kGYEbhNtxpCPBlL9YpLq8NcRp3k2E_7Cj03gGjLvBVdKpx_VZBu0XAhXYoYTx-bKu1eGmaQedayXBA) | Stabilizes power supply | 1 | $0.50 | $0.50 | [Shopee](https://shopee.com.my/product/6674515/6114209357?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMaBRvcqdZwgRklGTWoHoxFGhRfNAexxPkhN1n8rcCO5qFEud_-aY2hsGdfUnqCpX0P0Z7lpJy6IP6_Ew8qmNpcGhlcnRleHTEbAAAAAync9kAOU2fTnLsIU0fQLEAsC8k5eg-3vHv3RaZJoy8wVSBC_bh6tI9dl28wXo9kGYEbhNtxpCPBlL9YpLq8NcRp3k2E_7Cj03gGjLvBVdKpx_VZBu0XAhXYoYTx-bKu1eGmaQedayXBA) |
 | **Parts subtotal** | — | — | — | **$24.03** | — |
-| **Tax & shipping** | — | — | — | **$6.00** | — |
-| **Total** | — | — | — | **$30.03** | — |
+| **Tax & shipping** | — | — | — | **$5.50** | — |
+| **Total** | — | — | — | **$29.53** | — |
 
-**$0.03 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.47 left of the tier's funding.
