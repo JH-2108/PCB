@@ -18,9 +18,8 @@
 | [Green 5mm LED](https://my.cytron.io/c-led/c-5mm-led) | System-ready / normal-status indicator | 1 | $1.00 | $1.00 | [Cytron](https://my.cytron.io/c-led/c-5mm-led) |
 | [yellow 5mm LED](https://my.cytron.io/c-led/c-5mm-led) | System / status indicator | 1 | $1.00 | $1.00 | [Cytron](https://my.cytron.io/c-led/c-5mm-led) |
 | [220Ω resistor](https://myduino.com/product/myd-055) | limits current through the LEDs | 3 | $8.75 | $26.25 | [Myduino](https://myduino.com/product/myd-055) |
-| [10kΩ Resistor](https://myduino.com/product/myd-055/) | pull up/down resistors for stable button inputs | 3 | $8.75 | $26.25 | [Myduino](https://myduino.com/product/myd-055/) |
-| **Parts subtotal** | — | — | — | **$62.91** | — |
+| **Parts subtotal** | — | — | — | **$36.66** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$62.91** | — |
+| **Total** | — | — | — | **$36.66** | — |
 
-**$32.91 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$6.66 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
