@@ -28,7 +28,7 @@
 | [2.54 mm male pin headers](https://shopee.com.my/Male-Header-Pins-Straight-Single-Row-40-Pin-0.1-Inch-(2.54mm)-Male-Pin-Header-Connector-PCB-Board-Pin-Connect-i.161803224.7025057004?extraParams=%7B%22display_model_id%22%3A21946244149%2C%22model_selection_logic%22%3A3%7D) | GPIO/power/peripheral breakout | 1 | $0.30 | $0.30 | [Shopee Malaysia](https://shopee.com.my/Male-Header-Pins-Straight-Single-Row-40-Pin-0.1-Inch-(2.54mm)-Male-Pin-Header-Connector-PCB-Board-Pin-Connect-i.161803224.7025057004?extraParams=%7B%22display_model_id%22%3A21946244149%2C%22model_selection_logic%22%3A3%7D) |
 | [Custom PCB](https://jlcpcb.com) | Main devboard / connectors | 1 | $10.00 | $10.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$18.50** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$18.50** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$28.50** | — |
 
-$11.50 left of the tier's funding.
+$1.50 left of the tier's funding.
