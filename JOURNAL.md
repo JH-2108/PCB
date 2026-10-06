@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.05h | 2 |
+| Week 1 | Tier 1 | 4.5h | 2 |
 
 ## Contents
 
 1. [2026-10-06 — Well, I had no idea what I wanted to do when I first started, maybe a flight controller (found out it was too expensive), a macropad (was a great idea, but I've done it before and I wanna do something](#2026-10-06-well-i-had-no-idea-what-i-wanted-to-do-when-i-fir)
-2. [2026-10-06 — Work session](#2026-10-06-work-session)
+2. [2026-10-06 — Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version.](#2026-10-06-some-pictures-of-my-pcb-designing-includes-the-sc)
 
 ## Design
 
@@ -35,9 +35,17 @@ Anyways, enough of my yapping, here are some images of my project.
 
 ![Screenshot 2026-10-07 005424](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/d663b5a077d9ae3b949691f23a6048a0698819e2004a4a574ba5293b731615cd.png)
 
-### 2026-10-06 — Work session
+### 2026-10-06 — Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version.
 
-**2.05h**
+**2.5h**
+
+Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version.
+
+![Screenshot 2026-10-06 191822](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/55a89391a194e2a5a32f37160df2140de301298dbd223018f4de5968e5327637.png)
+
+![Screenshot 2026-10-06 192504](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/20f93ce536f622e6a98bdfa411379299d7426bcccacfc49f9a6cc6f5fdb8319f.png)
+
+![Screenshot 2026-10-06 192531](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/c3a0fd4f8ef30418322ef7628ddf0556fb9af16753877e08fb52381e066bb2a6.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/49bfa0d1-a2d1-49ec-b1c6-9895ec110794/video.mp4)
 
