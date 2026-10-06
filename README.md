@@ -90,13 +90,19 @@ The project combines:
 # project images
 
 **Schematic** 
-a photo will be  added here
+
+<img width="1102" height="763" alt="image" src="https://github.com/user-attachments/assets/41344106-1482-4054-a64a-e4b68676cb39" />
+
 
 **PCB layout**
-A photo will be added here
+
+<img width="723" height="501" alt="image" src="https://github.com/user-attachments/assets/4cc1365a-dc90-4d15-a43b-88164388a6c8" />
+
 
 **3d Render**
-a photo will be added here
+
+<img width="790" height="556" alt="image" src="https://github.com/user-attachments/assets/d09bdbb0-8acc-48a0-98d9-771131339c27" />
+
 
 **Finished PCB**
 a photo will be added here 
