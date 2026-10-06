@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [0.96" 128×64 I²C OLED](https://shopee.com.my/0.96-inch-oled-IIC-Serial-White-OLED-Display-Module-128X64-I2C-SSD1306-12864-LCD-Screen-Board-For-Arduino-i.1663599733.44550426697?extraParams=%7B%22display_model_id%22%3A272103673539%2C%22model_selection_logic%22%3A3%7D) | Displays games, menus, scores, and system information | 1 | $1.88 | $1.88 | [Shopee Malaysia](https://shopee.com.my/0.96-inch-oled-IIC-Serial-White-OLED-Display-Module-128X64-I2C-SSD1306-12864-LCD-Screen-Board-For-Arduino-i.1663599733.44550426697?extraParams=%7B%22display_model_id%22%3A272103673539%2C%22model_selection_logic%22%3A3%7D) |
 | [12×12 mm tactile push buttons](https://shopee.com.my/10pcs-12X12x12mm-DIP-4-Tact-Push-Button-Switch-Micro-Key-Power-Tactile-Switch-12x12x12-12*12*12mm-i.133282937.3901524814?extraParams=%7B%22display_model_id%22%3A70275333683%2C%22model_selection_logic%22%3A3%7D) | Control and start button | 1 | $0.65 | $0.65 | [Shopee Malaysia](https://shopee.com.my/10pcs-12X12x12mm-DIP-4-Tact-Push-Button-Switch-Micro-Key-Power-Tactile-Switch-12x12x12-12*12*12mm-i.133282937.3901524814?extraParams=%7B%22display_model_id%22%3A70275333683%2C%22model_selection_logic%22%3A3%7D) |
 | [KY-040 rotary encoder](https://shopee.com.my/Rotary-encoder-module-(KY-040-360-degree)-Rotate-Rotary-XD-88-for-Arduino-TechMakers-i.55645224.1843823186?extraParams=%7B%22display_model_id%22%3A71053964026%2C%22model_selection_logic%22%3A3%7D) | Menu navigation and additional user input | 1 | $0.69 | $0.69 | [Shopee Malaysia](https://shopee.com.my/Rotary-encoder-module-(KY-040-360-degree)-Rotate-Rotary-XD-88-for-Arduino-TechMakers-i.55645224.1843823186?extraParams=%7B%22display_model_id%22%3A71053964026%2C%22model_selection_logic%22%3A3%7D) |
 | [Active 5V buzzer](https://shopee.com.my/12095-Integrated-Electromagnetic-Type-Active-Buzzer-TMB12A05-3V-5V-12V-DC-Long-Sound-12-*-9.5MM-i.1521854488.42881125981?extraParams=%7B%22display_model_id%22%3A420959688686%2C%22model_selection_logic%22%3A3%7D) | Sound effects, alerts, and game feedback | 1 | $0.17 | $0.17 | [Shopee Malaysia](https://shopee.com.my/12095-Integrated-Electromagnetic-Type-Active-Buzzer-TMB12A05-3V-5V-12V-DC-Long-Sound-12-*-9.5MM-i.1521854488.42881125981?extraParams=%7B%22display_model_id%22%3A420959688686%2C%22model_selection_logic%22%3A3%7D) |
@@ -22,8 +21,8 @@
 | [10 µF electrolytic capacitors](https://shopee.com.my/10uF-47uF-100uF-220uF-25V-35V-50V-125%C2%B0C-MVH-MHB-MHK-SMD-Aluminum-Electrolytic-Capacitor-i.1467039591.49910000514?extraParams=%7B%22display_model_id%22%3A361512869653%2C%22model_selection_logic%22%3A3%7D) | Bulk power smoothing and supply stabilization | 1 | $0.50 | $0.50 | [Shopee Malaysia](https://shopee.com.my/10uF-47uF-100uF-220uF-25V-35V-50V-125%C2%B0C-MVH-MHB-MHK-SMD-Aluminum-Electrolytic-Capacitor-i.1467039591.49910000514?extraParams=%7B%22display_model_id%22%3A361512869653%2C%22model_selection_logic%22%3A3%7D) |
 | [5 mm LEDs](https://my.cytron.io/p-5mm-3mm-led-kit-box-5-colours-125pcs) | Power/Status/game-state indicators | 1 | $2.45 | $2.45 | [Cytron](https://my.cytron.io/p-5mm-3mm-led-kit-box-5-colours-125pcs) |
 | [Custom-PCB](https://jlcpcb.com/user-center/orders/) | Main routing component | 1 | $10.00 | $10.00 | [JLCPCB](https://jlcpcb.com/user-center/orders/) |
-| **Parts subtotal** | — | — | — | **$17.55** | — |
+| **Parts subtotal** | — | — | — | **$15.67** | — |
 | **Tax & shipping** | — | — | — | **$9.00** | — |
-| **Total** | — | — | — | **$26.55** | — |
+| **Total** | — | — | — | **$24.67** | — |
 
-$3.45 left of the tier's funding.
+$5.33 left of the tier's funding.
