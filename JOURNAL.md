@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6.05h | 2 |
+| Week 1 | Tier 1 | 4.05h | 2 |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 
 ### 2026-10-06 — Well, I had no idea what I wanted to do when I first started, maybe a flight controller (found out it was too expensive), a macropad (was a great idea, but I've done it before and I wanna do something
 
-**4h**
+**2h**
 
 Well, I had no idea what I wanted to do when I first started, maybe a flight controller (found out it was too expensive), a macropad (was a great idea, but I've done it before and I wanna do something different), a reaction game (tried that, deleted the project because it was a bit over the budget and way to easy), and then I landed on what I have now... A DEVBOARD!!!
 
@@ -32,10 +32,6 @@ In the end, it took me 2 hours to work on the PCB layout and designing, literall
 Anyways, enough of my yapping, here are some images of my project.
 
 ![Screenshot 2026-10-06 191822](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/55a89391a194e2a5a32f37160df2140de301298dbd223018f4de5968e5327637.png)
-
-![Screenshot 2026-10-06 192504](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/20f93ce536f622e6a98bdfa411379299d7426bcccacfc49f9a6cc6f5fdb8319f.png)
-
-![Screenshot 2026-10-06 192531](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/c3a0fd4f8ef30418322ef7628ddf0556fb9af16753877e08fb52381e066bb2a6.png)
 
 ![Screenshot 2026-10-07 005424](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/d663b5a077d9ae3b949691f23a6048a0698819e2004a4a574ba5293b731615cd.png)
 
