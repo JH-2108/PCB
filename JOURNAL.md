@@ -30,6 +30,8 @@ Besides just making my idea reel, I also fully designed the entire PCB layout an
 
 In the end, it took me 2 hours to work on the PCB layout and designing, literally something that could've taken me like 30 to 40 minutes. I forgot to mention... for me to connect the copper wires from each of the component, I learnt something new, being able to create a hole where the wire can pass through to the other side and then come up and connect on a component, pretty neat feature I'll give you that.
 
+To summarize what I did, I basically learnt how to use KiCAD, how to solder, and sketch up some ideas, and spent some of these time filming my reel!
+
 Anyways, enough of my yapping, here are some images of my project.
 
 ![Screenshot 2026-10-06 191822](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/55a89391a194e2a5a32f37160df2140de301298dbd223018f4de5968e5327637.png)
