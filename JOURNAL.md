@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.5h | 2 |
+| Week 1 | Tier 1 | 5.05h | 2 |
 
 ## Contents
 
@@ -37,7 +37,7 @@ Anyways, enough of my yapping, here are some images of my project.
 
 ### 2026-10-06 — Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version.
 
-**2.5h**
+**3.05h**
 
 Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version.
 
