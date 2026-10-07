@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10.55h | 3 |
+| Week 1 | Tier 1 | 10.6h | 3 |
 
 ## Contents
 
@@ -42,7 +42,7 @@ Anyways, enough of my yapping, here are some images of my project.
 
 ### 2026-10-06 — **PCB DESIGNING**
 
-**3.55h**
+**3.6h**
 
 **PCB DESIGNING**
 
