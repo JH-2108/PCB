@@ -70,6 +70,8 @@ However, as for me, I decided that, yk, I have a lot of free time, and also I ha
 
 You may be wondering, how did I spend 5 hours on downloading the softwares and all for the testing, well, there were a ton of compatibility issues, deleting my files over and over again, watched some tutorials on how to fix certain issues, and,  well, maybe use some ChatGPT to more efficiently solve them for me. But at least, at the end, I was able to solve all the issues that I was facing, successfully creating the testing environment for the devboard!
 
+Below are the pictures of what I did, such as the download pages, the coding parts, and waiting a long time for some software to finish downloading!
+
 ![Screenshot 2026-10-07 010902](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/94dbeee174343a18449c2dcef793f8503ee762bca4fbf5eb741f6e0c6473ea17.png)
 
 ![Screenshot 2026-10-07 013219](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/18c684e8fbfaf1a4bf0c603be7c043801f92f344da9e23bf0f2ff3077497fa76.png)
