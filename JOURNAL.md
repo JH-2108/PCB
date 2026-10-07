@@ -30,11 +30,11 @@ Well, I had no idea what I wanted to do when I first started, maybe a flight con
 
 Besides just making my idea reel, I also fully designed the entire PCB layout and schematics in KiCAD, successfully completing the creation of the entire DevBoard, which could be manufactured right now. However, you don't know me, I like to test if it works, and during my PCB layout creation, I faced so many difficulties, like the clearance issues on a FOOTPRINT, LITERALLY DESIGNED BY KICAD... Hence, I found a way to overcome it by changing the clearance value.
 
-In the end, it took me 2 hours to work on the PCB layout and designing, literally something that could've taken me like 30 to 40 minutes. I forgot to mention... for me to connect the copper wires from each of the component, I learnt something new, being able to create a hole where the wire can pass through to the other side and then come up and connect on a component, pretty neat feature I'll give you that.
+In the end, it took me 2 hours to work on the PCB layout, what type of parts to use, learning how to use KiCAD, while also checking if the parts that I need for this project are all on the KiCAD symbol and footprint library. It was a ton of work, but, hey, I finally did it, I got a great difficult project idea for a cost below 30usd, a PCB design that I can really work on, which will be quite fun to do so too, and how to solder those super tiny resistors and capacitors when the parts finally arrive at my doorstep!
 
 To summarize what I did, I basically learnt how to use KiCAD, how to solder, and sketch up some ideas, and spent some of these time filming my reel!
 
-Anyways, enough of my yapping, here are some images of my project.
+Anyways, enough of my yapping, here are some images of my project:
 
 ![Screenshot 2026-10-06 191822](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/55a89391a194e2a5a32f37160df2140de301298dbd223018f4de5968e5327637.png)
 
