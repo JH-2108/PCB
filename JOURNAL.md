@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10.6h | 3 |
+| Week 1 | Tier 1 | 11.1h | 3 |
 
 ## Contents
 
 1. [2026-10-06 — **Finding an idea, learning KiCAD**](#2026-10-06-finding-an-idea-learning-kicad)
 2. [2026-10-06 — **PCB DESIGNING**](#2026-10-06-pcb-designing)
-3. [2026-10-07 — **PREPARING FIRMWARE ENVIRONMENT**](#2026-10-07-preparing-firmware-environment)
+3. [2026-10-07 — ![Screenshot 2026-10-07 205429](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/4340fb4f9a40667b4e2f7cbcd3e5ec85dace37d4820f40a5b8b65e1117742db2.png)](#2026-10-07-screenshot-2026-10-07-205429httpshalflifehackclub)
 
 ## Design
 
@@ -58,9 +58,11 @@ Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered
 
 [Timelapse](https://lookout.hackclub.com/api/media/312bf0b2-ec24-4d46-80e0-ec4d2dc14f10/video.mp4)
 
-### 2026-10-07 — **PREPARING FIRMWARE ENVIRONMENT**
+### 2026-10-07 — ![Screenshot 2026-10-07 205429](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/4340fb4f9a40667b4e2f7cbcd3e5ec85dace37d4820f40a5b8b65e1117742db2.png)
 
-**5h**
+**5.5h**
+
+![Screenshot 2026-10-07 205429](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/4340fb4f9a40667b4e2f7cbcd3e5ec85dace37d4820f40a5b8b65e1117742db2.png)
 
 **PREPARING FIRMWARE ENVIRONMENT**
 
