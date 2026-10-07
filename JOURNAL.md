@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-06 — **Finding an idea, learning KiCAD**](#2026-10-06-finding-an-idea-learning-kicad)
-2. [2026-10-06 — Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version. An additional 1 hour was used to handle certain PCB designing issues, and learning how KiCAD works!](#2026-10-06-some-pictures-of-my-pcb-designing-includes-the-sc)
+2. [2026-10-06 — **PCB DESIGNING**](#2026-10-06-pcb-designing)
 3. [2026-10-07 — Well, a development board doesn't always need a firmware for it to run, since, yk, the chips provide the main codes for all the other components to run along with how you are the one coding in order t](#2026-10-07-well-a-development-board-doesnt-always-need-a-fir)
 
 ## Design
@@ -40,9 +40,11 @@ Anyways, enough of my yapping, here are some images of my project.
 
 ![Screenshot 2026-10-07 005424](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/d663b5a077d9ae3b949691f23a6048a0698819e2004a4a574ba5293b731615cd.png)
 
-### 2026-10-06 — Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version. An additional 1 hour was used to handle certain PCB designing issues, and learning how KiCAD works!
+### 2026-10-06 — **PCB DESIGNING**
 
 **3.55h**
+
+**PCB DESIGNING**
 
 Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version. An additional 1 hour was used to handle certain PCB designing issues, and learning how KiCAD works!
 
