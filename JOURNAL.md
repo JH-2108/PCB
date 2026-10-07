@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-06 — Well, I had no idea what I wanted to do when I first started, maybe a flight controller (found out it was too expensive), a macropad (was a great idea, but I've done it before and I wanna do something](#2026-10-06-well-i-had-no-idea-what-i-wanted-to-do-when-i-fir)
-2. [2026-10-06 — Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version.](#2026-10-06-some-pictures-of-my-pcb-designing-includes-the-sc)
+2. [2026-10-06 — Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version. An additional 1 hour was used to handle certain PCB designing issues, and learning how KiCAD works!](#2026-10-06-some-pictures-of-my-pcb-designing-includes-the-sc)
 
 ## Design
 
@@ -35,11 +35,11 @@ Anyways, enough of my yapping, here are some images of my project.
 
 ![Screenshot 2026-10-07 005424](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/d663b5a077d9ae3b949691f23a6048a0698819e2004a4a574ba5293b731615cd.png)
 
-### 2026-10-06 — Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version.
+### 2026-10-06 — Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version. An additional 1 hour was used to handle certain PCB designing issues, and learning how KiCAD works!
 
 **3.05h**
 
-Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version.
+Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version. An additional 1 hour was used to handle certain PCB designing issues, and learning how KiCAD works!
 
 ![Screenshot 2026-10-06 191822](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/55a89391a194e2a5a32f37160df2140de301298dbd223018f4de5968e5327637.png)
 
