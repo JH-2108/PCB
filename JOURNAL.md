@@ -16,7 +16,7 @@
 
 1. [2026-10-06 — **Finding an idea, learning KiCAD**](#2026-10-06-finding-an-idea-learning-kicad)
 2. [2026-10-06 — **PCB DESIGNING**](#2026-10-06-pcb-designing)
-3. [2026-10-07 — Well, a development board doesn't always need a firmware for it to run, since, yk, the chips provide the main codes for all the other components to run along with how you are the one coding in order t](#2026-10-07-well-a-development-board-doesnt-always-need-a-fir)
+3. [2026-10-07 — **PREPARING FIRMWARE ENVIRONMENT**](#2026-10-07-preparing-firmware-environment)
 
 ## Design
 
@@ -58,9 +58,11 @@ Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered
 
 [Timelapse](https://lookout.hackclub.com/api/media/312bf0b2-ec24-4d46-80e0-ec4d2dc14f10/video.mp4)
 
-### 2026-10-07 — Well, a development board doesn't always need a firmware for it to run, since, yk, the chips provide the main codes for all the other components to run along with how you are the one coding in order t
+### 2026-10-07 — **PREPARING FIRMWARE ENVIRONMENT**
 
 **5h**
+
+**PREPARING FIRMWARE ENVIRONMENT**
 
 Well, a development board doesn't always need a firmware for it to run, since, yk, the chips provide the main codes for all the other components to run along with how you are the one coding in order to make the devboard work.
 
