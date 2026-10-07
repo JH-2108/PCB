@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9.05h | 3 |
+| Week 1 | Tier 1 | 9.55h | 3 |
 
 ## Contents
 
@@ -38,7 +38,7 @@ Anyways, enough of my yapping, here are some images of my project.
 
 ### 2026-10-06 — Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version. An additional 1 hour was used to handle certain PCB designing issues, and learning how KiCAD works!
 
-**3.05h**
+**3.55h**
 
 Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version. An additional 1 hour was used to handle certain PCB designing issues, and learning how KiCAD works!
 
