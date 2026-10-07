@@ -46,7 +46,7 @@ Anyways, enough of my yapping, here are some images of my project.
 
 **PCB DESIGNING**
 
-Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version. An additional 1 hour was used to handle certain PCB designing issues, and learning how KiCAD works!
+Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version. An additional 1 hour and 30-ish minutes was used to handle certain PCB designing issues, and learning how KiCAD works! (including solving some problems that I had with KiCAD that isn't recorded in the timelapse.
 
 ![Screenshot 2026-10-06 191822](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/55a89391a194e2a5a32f37160df2140de301298dbd223018f4de5968e5327637.png)
 
