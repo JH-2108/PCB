@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9.55h | 3 |
+| Week 1 | Tier 1 | 10.55h | 3 |
 
 ## Contents
 
@@ -56,11 +56,13 @@ Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered
 
 ### 2026-10-07 — Well, a development board doesn't always need a firmware for it to run, since, yk, the chips provide the main codes for all the other components to run along with how you are the one coding in order t
 
-**4h**
+**5h**
 
 Well, a development board doesn't always need a firmware for it to run, since, yk, the chips provide the main codes for all the other components to run along with how you are the one coding in order to make the devboard work.
 
 However, as for me, I decided that, yk, I have a lot of free time, and also I haven't complete my 10 hour progress for this project, hence, I decided, why not I code the firmware to test the board first, then later on, when it is time to test the board, I'll just load the firmware onto the board and make sure it works. Hence, I took 4 hours of my time, downloading software, recoding certain firmwares and using a Raspberry Pi Pico extension from VSC to create an example project (blink), in hopes that when the parts for the devboard come, I am able to assemble it and build it.
+
+You may be wondering, how did I spend 5 hours on downloading the softwares and all for the testing, well, there were a ton of compatibility issues, deleting my files over and over again, watched some tutorials on how to fix certain issues, and,  well, maybe use some ChatGPT to more efficiently solve them for me. But at least, at the end, I was able to solve all the issues that I was facing, successfully creating the testing environment for the devboard!
 
 ![Screenshot 2026-10-07 010902](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/94dbeee174343a18449c2dcef793f8503ee762bca4fbf5eb741f6e0c6473ea17.png)
 
