@@ -48,11 +48,11 @@ Anyways, enough of my yapping, here are some images of my project:
 
 Some pictures of my PCB designing, includes the schematics, PCB, and 3d rendered version. An additional 1 hour and 30-ish minutes was used to handle certain PCB designing issues, and learning how KiCAD works! (including solving some problems that I had with KiCAD that isn't recorded in the timelapse.
 
-![Screenshot 2026-10-06 191822](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/55a89391a194e2a5a32f37160df2140de301298dbd223018f4de5968e5327637.png)
-
 ![Screenshot 2026-10-06 192504](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/20f93ce536f622e6a98bdfa411379299d7426bcccacfc49f9a6cc6f5fdb8319f.png)
 
-![Screenshot 2026-10-06 192531](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/c3a0fd4f8ef30418322ef7628ddf0556fb9af16753877e08fb52381e066bb2a6.png)
+![Screenshot 2026-10-08 144417](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/5d07cd9013505135b9e7c210a8643904a77e905680b752601b4e9c0db736fa76.png)
+
+![Screenshot 2026-10-08 144716](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/3f1094b19e3b428c075b3c3fd0de4e06b23339b121b478e0014f622e8e93e438.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/49bfa0d1-a2d1-49ec-b1c6-9895ec110794/video.mp4)
 
