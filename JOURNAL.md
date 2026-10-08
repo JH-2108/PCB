@@ -36,7 +36,7 @@ To summarize what I did, I basically learnt how to use KiCAD, how to solder, and
 
 Anyways, enough of my yapping, here are some images of my project:
 
-![Screenshot 2026-10-06 191822](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/55a89391a194e2a5a32f37160df2140de301298dbd223018f4de5968e5327637.png)
+![Screenshot 2026-10-08 144417](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/5d07cd9013505135b9e7c210a8643904a77e905680b752601b4e9c0db736fa76.png)
 
 ![Screenshot 2026-10-07 005424](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/d663b5a077d9ae3b949691f23a6048a0698819e2004a4a574ba5293b731615cd.png)
 
